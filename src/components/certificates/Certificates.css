@@ -1,0 +1,22 @@
+.namee{ 
+    color:#2c580d;
+    font-weight: 300;
+}
+.profilee{
+    max-width:120px;
+    max-height:120px;
+    margin-top:2px;
+    width:100%;
+    height:100%;
+}
+.view-btn{
+    color:white;
+    background-color: #67B32F;
+}
+.delete-btn{
+    color:white;
+    background-color: #943404;
+}
+.mt-9 {
+    margin-top: 3rem; /* Adjust the value as needed */
+}

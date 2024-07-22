@@ -1,0 +1,14 @@
+.bg-image{
+    background-image: url('https://img.freepik.com/free-vector/abstract-paper-style-background_23-2150744372.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 89vh;
+  width: 100%;
+  position:relative;
+}
+@media(max-wid1h:600px)
+{
+    .bg-image{
+        background-size: contain;
+    }
+}
